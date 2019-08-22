@@ -284,6 +284,7 @@ class ViewController: UIViewController, MyUIViewDelegate {
                     sleep(1)
                     self?.myUIView.setSemaphoreThired(thirdRoadText: response.result.results[0].road,
                                                      thirdLimitText: response.result.results[0].speedLimit)
+
                     semaphore.signal()
                     print("Ofset20  - done")
 

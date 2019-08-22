@@ -73,7 +73,7 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kUa-QP-MK1">
                                                 <rect key="frame" x="93.5" y="49" width="187" height="34"/>
                                                 <color key="backgroundColor" red="0.2156862745" green="0.050980392159999999" blue="0.0" alpha="0.69822880990000002" colorSpace="custom" customColorSpace="calibratedRGB"/>
-                                                <state key="normal" title="Cancle"/>
+                                                <state key="normal" title="Cancel"/>
                                                 <connections>
                                                     <action selector="clearData" destination="l0a-nm-P97" eventType="touchUpInside" id="Eeh-77-345"/>
                                                 </connections>
